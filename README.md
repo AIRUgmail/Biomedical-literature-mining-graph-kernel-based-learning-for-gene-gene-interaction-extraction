@@ -1,11 +1,9 @@
 
 # Biomedical literature mining - graph kernel based on distant supervision for extracting gene-gene interactions
 
-## _HSIEH, AI-RU_
+_HSIEH, AI-RU_
 
-Github:<https://github.com/TSAI-CHEN-YU/tku-stat-608650213>
-
-## The program in the paper  
+## Program in the Paper
 
 ### Data in PubMed
 
