@@ -1,6 +1,7 @@
-# <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/Tamkang_University_logo.svg/630px-Tamkang_University_logo.svg.png" alt="Editor" width="50"> Master's Thesis
-## Biomedical literature mining - graph kernel based on distant supervision for extracting gene-gene interactions
-### _*109 Academic year －Tamkang University Department of Statistics  Graduation Thesis － Tsai Chen Yu_
+
+# Biomedical literature mining - graph kernel based on distant supervision for extracting gene-gene interactions
+
+## _HSIEH, AI-RU_
 
 Github:<https://github.com/TSAI-CHEN-YU/tku-stat-608650213>
 
